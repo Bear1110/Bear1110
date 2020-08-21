@@ -36,6 +36,9 @@
 # 📕Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [33. Search in Rotated Sorted Array](https://medium.com/@Bear_/33-search-in-rotated-sorted-array-cb376f76a62c?source=rss-595cbb624864------2)
+- [215. Kth Largest Element in an Array](https://medium.com/@Bear_/215-kth-largest-element-in-an-array-bceb4c7411e9?source=rss-595cbb624864------2)
+- [36. Valid Sudoku LeetCode 很酷的轉換矩陣](https://medium.com/@Bear_/36-valid-sudoku-leetcode-%E5%BE%88%E9%85%B7%E7%9A%84%E8%BD%89%E6%8F%9B%E7%9F%A9%E9%99%A3-af422c438fcb?source=rss-595cbb624864------2)
 <!-- BLOG-POST-LIST:END -->
 
 
