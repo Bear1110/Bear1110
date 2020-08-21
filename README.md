@@ -1,10 +1,9 @@
-### Hi there. I'm Bear. 👋
+### Hi there. I'm Bear🐻. 👋
 
 - 🔭 I’m currently finding a job.
 - 🌱 I’m currently learning everything ?!
-- 👯 I’m looking to jobs which help everyone or make world better.
-<!-- - ⚡ Fun fact: ... -->
-- 🏆 Publication has been accepted by ICSE 2020.
+- 👯 I’m looking to jobs which help everyone or make world better. <!-- - ⚡ Fun fact: ... -->
+- 📃 Publication is accepted by ICSE 2020, and earned 🏆 best paper award by TCSE 2020.
 
 [GeekyNote: A Technical Documentation Tool with Coverage, Backtracking, Traces, and Couplings](https://www.youtube.com/watch?v=8vvNkmbIVbw)
 
@@ -13,7 +12,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<br /> 
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -30,6 +29,13 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+
+# 📕Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [medium]: https://medium.com/@Bear_
