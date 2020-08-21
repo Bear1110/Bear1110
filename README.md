@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning everything ?!
 - 👯 I’m looking to jobs which help everyone or make world better.
 <!-- - ⚡ Fun fact: ... -->
-- 🏆 Publication has been accepted by ICSE 2020. [GeekyNote: A Technical Documentation Tool with Coverage, Backtracking, Traces, and Couplings](https://www.youtube.com/watch?v=8vvNkmbIVbw)
+- 🏆 Publication has been accepted by ICSE 2020.
+
+[GeekyNote: A Technical Documentation Tool with Coverage, Backtracking, Traces, and Couplings](https://www.youtube.com/watch?v=8vvNkmbIVbw)
 
 ### Connect with me:
 
@@ -31,3 +33,4 @@
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [medium]: https://medium.com/@Bear_
+
