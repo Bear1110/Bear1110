@@ -42,6 +42,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/bear1111/
 [medium]: https://medium.com/@Bear_
 
