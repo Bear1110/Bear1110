@@ -36,9 +36,9 @@
 # 📕Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2020新鮮人面試15間心得](https://medium.com/@Bear_/2020%E6%96%B0%E9%AE%AE%E4%BA%BA%E9%9D%A2%E8%A9%A615%E9%96%93%E5%BF%83%E5%BE%97-c7ec5154c2df?source=rss-595cbb624864------2)
 - [LeetCode 105 Construct Binary Tree from Preorder and Inorder Traversal](https://medium.com/@Bear_/leetcode-105-construct-binary-tree-from-preorder-and-inorder-traversal-9ca1f9246347?source=rss-595cbb624864------2)
 - [33. Search in Rotated Sorted Array](https://medium.com/@Bear_/33-search-in-rotated-sorted-array-cb376f76a62c?source=rss-595cbb624864------2)
-- [215. Kth Largest Element in an Array](https://medium.com/@Bear_/215-kth-largest-element-in-an-array-bceb4c7411e9?source=rss-595cbb624864------2)
 <!-- BLOG-POST-LIST:END -->
 
 
