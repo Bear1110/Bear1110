@@ -1,6 +1,6 @@
 ### Hi there. I'm Bear🐻. 👋
 
-- 🔭 I’m currently finding a job.
+<!-- - 🔭 I’m currently finding a job. -->
 - 🌱 I’m currently learning everything ?!
 - 👯 I’m looking to jobs which help everyone or make world better. <!-- - ⚡ Fun fact: ... -->
 - 📃 Publication is accepted by ICSE 2020, and earned 🏆 best paper award by TCSE 2020.
